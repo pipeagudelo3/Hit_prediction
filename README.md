@@ -32,6 +32,12 @@ Las brechas de investigación actuales se centran en:
 
 Este proyecto contribuye a esa línea mediante un **modelo interpretable** basado únicamente en *features acústicas*, con un dataset público de Spotify.
 
+Lee, J., & Lee, J.-S. (2018). Music popularity: Metrics, characteristics, and audio-based prediction. IEEE Transactions on Multimedia, 20(11), 3173-3182. https://doi.org/10.1109/TMM.2018.2820903
+
+Zhao, M., Harvey, M., Cameron, D., Hopfgartner, F., & Gillet, V. J. (2023). An analysis of classification approaches for hit song prediction using engineered metadata features with lyrics and audio features. arXiv. https://arxiv.org/abs/2301.13507
+
+Araujo, C. V. S., Cristo, M. A. P., & Giusti, R. (2021). A model for predicting music popularity on streaming platforms. Revista de Informática Teórica e Aplicada, 27(4). https://doi.org/10.22456/2175-2745.107021
+
 ---
 
 ## 🎯 Pregunta de investigación y objetivos (15%)
